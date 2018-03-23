@@ -9,7 +9,7 @@ def key_for_min_value(name_hash)
     end
     
     if val < min
-      min = fal
+      min = val
     end
     
     
